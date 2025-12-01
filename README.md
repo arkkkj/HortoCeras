@@ -11,4 +11,3 @@ Projeto de Modelagem de Banco de Dados - Cruzeiro do Sul
 
 # Como testar
 É necessário executar os arquivos listados na ordem acima para que ocorra de forma correta.
-Foram testados pelo OneCompiler conforme fotos em anexo;
