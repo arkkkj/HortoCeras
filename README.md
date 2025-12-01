@@ -1,5 +1,5 @@
 # HortoCeras
-Projeto de Modelagem de Banco de Dados - Cruzeiro do Sul 
+Projeto de Modelagem de Banco de Dados - Cruzeiro do Sul.
 
 # O que há neste repositório?
 
