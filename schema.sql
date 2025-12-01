@@ -1,3 +1,7 @@
+-- Cria o banco de dados
+CREATE DATABASE horto_ceras;
+USE horto_ceras;
+
 -- Criação da tabela Empresa
 CREATE TABLE Empresa (
     CNPJ VARCHAR(14) NOT NULL,
