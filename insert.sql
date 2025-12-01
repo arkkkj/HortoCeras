@@ -1,3 +1,5 @@
+USE horto_ceras;
+
 -- Inserindo dados na tabela EMPRESA
 INSERT INTO EMPRESA (cnpj_empresa, nome, endereco) VALUES 
 ('12345678000195', 'Empresa A', 'Rua A, 123');
